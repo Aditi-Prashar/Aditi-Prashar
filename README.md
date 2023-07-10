@@ -11,13 +11,13 @@ Greetings, I'm Aditi, and my mission is to tackle real-world challenges. I posse
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-Aditi-Prashar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-prashar21/)
+<!-- [![Linkedin](https://img.shields.io/badge/-Aditi-Prashar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-prashar21/)
 [![Gmail](https://img.shields.io/badge/-keshav062-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aditiprashar2103@gmail.com)
 [![Instagram](https://img.shields.io/badge/-great_kv-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_.aditi_prashar._/)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=keshav-06&style=flat)
-[![Github](https://img.shields.io/badge/-Keshav-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/keshav-06)
+[![Github](https://img.shields.io/badge/-Keshav-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/keshav-06) -->
 
 
 <!-- current status -->
