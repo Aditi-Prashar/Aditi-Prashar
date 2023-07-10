@@ -16,7 +16,7 @@ Greetings, I'm Aditi, and my mission is to tackle real-world challenges. I posse
 [![Instagram](https://img.shields.io/badge/-great_kv-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_.aditi_prashar._/)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=keshav-06&style=flat)
+<!--![](https://komarev.com/ghpvc/?username=keshav-06&style=flat)
 [![Github](https://img.shields.io/badge/-Keshav-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/keshav-06) -->
 
 
